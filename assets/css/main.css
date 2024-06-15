@@ -4302,7 +4302,9 @@ body.is-preload #banner p {
     rgba(205, 127, 50, 0.68),
     rgb(205, 128, 50)
   );
-  padding: 10px;
+  width: 30%;
+  height: auto;
+  padding: 5px;
   border-radius: 5%;
   margin-left: auto;
   margin-right: auto;
